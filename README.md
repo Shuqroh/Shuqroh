@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shuqroh
+- I'm a Web 3 technical Writer
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning Html & css
+- 🌱 I’m currently learning UIUX 
 - 💞️ I’m looking to collaborate on any project for beginners 
 - 📫 How to reach me @shuqroh
 
